@@ -12,7 +12,3 @@
 //         assert_eq!(result, 4);
 //     }
 // }
-
-pub fn verify_engine() {
-    println!("Mathrix Math Engine: ONLINE");
-}
