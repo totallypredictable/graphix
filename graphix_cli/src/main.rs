@@ -1,3 +1,10 @@
+// fn main() {
+//     println!("Hello, world!");
+// }
+
+use mathrix::verify_engine;
+
 fn main() {
-    println!("Hello, world!");
+    println!("Launching Graphix CLI...");
+    verify_engine();
 }
